@@ -50,7 +50,7 @@ case $NB in
 23) clear ; m-recov ;;
 24) clear ; pointing ;;
 25) clear ; wget https://raw.githubusercontent.com/gemilangvip/autoscript/main/files/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh && reboot ;;
-26) clear ; wget -q https://raw.githubusercontent.com/Pemulaajiw/script/main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh ;;
+26) clear ; wget -q https://raw.githubusercontent.com/liontunnel/scriptvpn/main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh ;;
 27) clear ; features ;;
 28) clear ; online ;;
 29) clear ; limitspeed  ;;
