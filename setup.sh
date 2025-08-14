@@ -316,8 +316,8 @@ else
 sts="${Error}"
 fi
 TIMES="10"
-CHATID="6197482164"
-KEY="7257456294:AAF_EwHS4dMkbnnRdlR3TLJu7eK225Lbb3Y"
+CHATID="7280668462"
+KEY="7550185247:AAFEwrs27_vx-SeBhQSIoBYUmmY_wMb1ofg"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
@@ -332,7 +332,7 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>Exp Sc.  :</code><code>$exp</code>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>FAN VPN STORE</b>
+<b>NXN VPN STORE</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <i>Automatic Notifikasi Installer Script...</i>
 "'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://t.me/AJW29"},{"text":"Contack","url":"https://wa.me/6287812264674"}]]}'
@@ -541,7 +541,7 @@ print_success "Password SSH"
 function udp_mini(){
 clear
 print_install "Memasang Service Limit IP & Quota"
-wget -q https://raw.githubusercontent.com/Pemulaajiw/script/main/config/fv-tunnel && chmod +x fv-tunnel && ./fv-tunnel
+wget -q https://raw.githubusercontent.com/liontunnel/scriptvpn/main/config/fv-tunnel && chmod +x fv-tunnel && ./fv-tunnel
 
 # // Installing UDP Mini
 mkdir -p /usr/local/kyt/
@@ -1060,7 +1060,7 @@ echo "" > /etc/xray/noob
 secs_to_human "$(($(date +%s) - ${start}))"
 sudo hostnamectl set-hostname $username
 echo ""echo -e "\e[94;1m╔═════════════════════════════════════════════════╗\e[0m"
-echo -e "\e[96;1m          -[ FANSAJA TUNNELING PROJECT ]-                 \e[0m"
+echo -e "\e[96;1m          -[ NXNSAJA TUNNELING PROJECT ]-                 \e[0m"
 echo -e "\e[94;1m╚═════════════════════════════════════════════════╝\e[0m"
 echo -e ""
 echo -e "\e[94;1m╔═════════════════════════════════════════════════╗\e[0m"
@@ -1093,8 +1093,8 @@ echo -e "\033[0;32m└───────────────────�
 echo -e "\e[94;1m╔═════════════════════════════════════════════════╗\e[0m"
 echo -e "\e[92;1m               [ TERIMAKASIH ]                      \e[0m"
 echo -e "\e[94;1m╚═════════════════════════════════════════════════╝\e[0m"
-echo -e " t.me/Fauziii09"
-echo -e " TERIMAKASIH SUDAH MENGGUNAKAN LAYANAN SC FAN PREMIUM"
+echo -e " t.me/XLSMARTLC"
+echo -e " TERIMAKASIH SUDAH MENGGUNAKAN LAYANAN SC NXN PREMIUM"
 echo -e "\e[94;1m╚═════════════════════════════════════════════════╝\e[0m"
 echo -e ""
 echo ""
