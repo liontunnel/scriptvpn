@@ -335,7 +335,7 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 <b>NXN VPN STORE</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <i>Automatic Notifikasi Installer Script...</i>
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://t.me/AJW29"},{"text":"Contack","url":"https://wa.me/6287812264674"}]]}'
+"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://t.me/XLSMARTLC"},{"text":"Contack","url":"https://wa.me/6285974307436"}]]}'
     curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }
 clear
